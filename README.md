@@ -3,6 +3,5 @@
 ### Прикладной анализ данных в медицине
 
 ### Проекты:
-
-# [Проект 1. Игра: угадай число](https://github.com/Rinengen/SF_HW)
+# [Проект 1. Игра: угадай число](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_1)
 
