@@ -1,26 +1,6 @@
-<<<<<<< HEAD
+
 ### Выполнения домашних работ по модулю: Программирование на Python
 ### Студент: Миннебаев Руслан Ильдусович
 ### Прикладной анализ данных в медицине
-
 ### Проекты:
-# [Проект 1. Игра: угадай число](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_1)
-
-=======
-### Hi there 👋
-
-<!--
-**Rinengen/Rinengen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 794e99f (Initial commit)
+# [Проект 1. Игра: угадай число](https://github.com/Rinengen/SF_HW)
