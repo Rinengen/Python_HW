@@ -4,5 +4,5 @@
 
 ### Проекты:
 # [Проект 1. Игра: угадай число](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_1)
-# [Проект 2. MIPT_SF_HW_1] (https://github.com/Rinengen/SF_HW/tree/SF_HW/project_2)
+# [Проект 2. MIPT_SF_HW_1](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_2)
 
