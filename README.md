@@ -7,3 +7,4 @@
 
 [Проект 2. MIPT_SF_HW_1](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_2)
 
+[Проект 3. MIPT_SF_HW_2](https://github.com/Rinengen/SF_HW/tree/SF_HW/project_3_HW3)
